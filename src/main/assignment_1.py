@@ -73,5 +73,3 @@ if __name__ == '__main__':
     round_iter = round(iteration_num, 0)
     format_iter = format_number(round_iter)
     print(format_iter)
-
-    # Part b
