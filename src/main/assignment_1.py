@@ -1,4 +1,3 @@
-# Question 1
 import math
 
 
